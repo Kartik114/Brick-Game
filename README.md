@@ -1,2 +1,2 @@
 # Brick-Game
-A Single Player Brick Game developed using java. Have fun :)
+A Single Player Brick Breaker Game developed using java. Have fun :)
