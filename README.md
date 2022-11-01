@@ -1,5 +1,7 @@
 # Brick-Game
 A Single Player Brick Breaker Game developed using java. Have fun :)
+
+Few Instructions beforehand.
 1. Press "ENTER" Key to start the game.
 2. Use Left and Right Arrow keys to move the paddle.
 3. As You hit bricks with ball ,  the score increases on the board.
